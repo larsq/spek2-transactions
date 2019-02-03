@@ -22,4 +22,4 @@ a pity since the variable must be re-assigned in the describe block. Suggestions
 Keywords: Kotlin, Micronaut, JPA, Spek2
 
 ## Running
-Run with ```gradle test``` to run. The application does not consist of any useful application
+Run with ```gradle test``` to run. The application is not relevant although it can be started as an application.
